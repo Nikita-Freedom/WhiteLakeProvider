@@ -41,6 +41,15 @@
 
 ![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/4.jpg)
 
+8. Дождитесь установки APK на ваш девайс.
+9. После установки на вашем девайсе сразу откроется окно с полем ввода сервера(по умолчанию там введен адрес моего сервера)
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_1.png)
+
+10. Вы также можете редакатировать поле ввода и ввести туда свой сервер. Отображение статуса подключения видно под полем ввода текста.
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_322.png)
+
 ## Построен с помощью
 
 * [SAF](https://developer.android.com/guide/topics/providers/document-provider?hl=ru) - Используется SAF.
