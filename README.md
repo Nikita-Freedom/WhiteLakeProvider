@@ -59,8 +59,6 @@
 * [Maven](https://maven.apache.org/) - Зависимость
 * [DocumentProvider](https://developer.android.com/reference/android/provider/DocumentsProvider?hl=ru) - Используется как проводник файлов.
 
-## Contributing
-
 ## Автор
 
 * **Ульянов Никита**  [Nikita-Freedom](https://github.com/Nikita-Freedom)
