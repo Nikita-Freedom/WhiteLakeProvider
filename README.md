@@ -19,10 +19,27 @@
 
 ### Шаги для установки apk
 Как только вы убедились, что у вас установлена и корректно работает Android studio, подключен либо виртуальный девайс, либо реальное android устройство переходите к следующим действиям:
-1. Скачайте отправленный вам на почту архив с apk. 
+1. Скачайте отправленный вам на почту архив с APK. 
 2. Распкакуйте в указанную вами папку.
-3. Зайдите в Android studio
-![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_2.png)
+3. Зайдите в Android studio и нажмите "Open an existing Android Studio project" как показано на скриншоте
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/1.jpg)
+
+4. Найдите в списке файлов ваш распакованный APK
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/2.jpg)
+
+5. Откройте ваш проект(APK) и дождитесь пока система сборки Gradle соберет ваш проект
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/3.jpg)
+
+6. Как только система сборки соберет ваш проект выберите в панели сверху справа девайс на котором будет устанавливаться APK(это может быть как виртуальный девайс, так и реальное Android устройство, подключенное к компьютеру с включенным режимом отладки)
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/5.jpg)
+
+7. Как только проект будет собран, нажмите зеленую стрелочку(кнопку Run) на верхней панели справа
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/4.jpg)
 
 ## Построен с помощью
 
