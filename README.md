@@ -10,7 +10,7 @@
 ### Что нужно для работы?
 
 Перед началом работы вам необходимо установить следующие компоненты: 
-1. VMWare workStation. Подойдет любая ОС.
+1. VMWare Player. Подойдет любая ОС. Скачать можно отсюда: https://www.vmware.com/ru/products/workstation-player/workstation-player-evaluation.html
 
 2. На VMWare workStation установить Apache Server. Можно установить с официального сайта: https://httpd.apache.org/download.cgi
    Для более понятного процесса установки можно посмотреть: https://www.youtube.com/watch?v=a5UMDy0EeUU
