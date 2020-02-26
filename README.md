@@ -13,6 +13,7 @@
 1. VMWare workStation. Подойдет любая ОС.
 2. Apache Server. Можно установить с официального сайта: https://httpd.apache.org/download.cgi
 Для более понятного процесса установки можно посмотреть: https://www.youtube.com/watch?v=a5UMDy0EeUU
+
 3.Java SE Development Kit 8. Установить можно с сайта: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 4.Android Studio последней версии. Можно скачать с официального сайта:https://developer.android.com/studio
 Пройти весь процесс установки(в том числе загрузить SDK), загрузить виртуальный девайс для проверки расширения на нем.
@@ -29,7 +30,7 @@
 
 Установка Android Studio
 
-![Image alt](https://github.com/{Nikita-Freedom}/{WhiteLakeProvider}/raw/{master}/{C:\Users\Home\Desktop\Screenshot_2}/image.png)
+![Image alt](https://github.com/{Nikita-Freedom}/{WhiteLakeProvider}/raw/{master}/{https://startandroid.ru/images/stories/lessons/L0002/x010.png.pagespeed.ic.CEyzEeQTsQ.webp}/image.png)
  
 Здесь, как следует из скриншота, установщик спрашивает, куда ставить студию, и куда ставить SDK. Если с самой студией все понятно, то SDK нужно быть внимательным. Как опять же следует из скриншота, для установки SDK нужно минимум 3.2 GB места на диске. Это минимум, на самом деле, места нужно больше, поскольку через какое-то время вам нужно будет докачивать обновленный SDK. так что, если вы не уверены, что места в будущем хватит — лучше измените местоположение на более вместительный диск.
 
