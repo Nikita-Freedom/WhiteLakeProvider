@@ -13,8 +13,8 @@
 1. VMWare workStation. Подойдет любая ОС.
 
 2. На VMWare workStation установить Apache Server. Можно установить с официального сайта: https://httpd.apache.org/download.cgi
-
-Для более понятного процесса установки можно посмотреть: https://www.youtube.com/watch?v=a5UMDy0EeUU
+   Для более понятного процесса установки можно посмотреть: https://www.youtube.com/watch?v=a5UMDy0EeUU
+   
 3.Java SE Development Kit 8(понадобится для android studio). Установить можно с сайта: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 4.Android Studio последней версии. Можно скачать с официального сайта:https://developer.android.com/studio
