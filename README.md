@@ -55,11 +55,11 @@
 
 11. Зайдите в файлы и там будет отображаться наш проводник с файлами на сервере.
 
-![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_6png)
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_6.png)
 
 12. Откройте проводник и посмотрите содержимое файлов и папок на вашем сервере.
 
-![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_7ng)
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_7.png)
 
 ## Построен с помощью
 
