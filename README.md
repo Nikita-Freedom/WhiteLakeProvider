@@ -53,6 +53,14 @@
 
 ![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_322.png)
 
+11. Зайдите в файлы и там будет отображаться наш проводник с файлами на сервере.
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_6png)
+
+12. Откройте проводник и посмотрите содержимое файлов и папок на вашем сервере.
+
+![Image alt](https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_7ng)
+
 ## Построен с помощью
 
 * [SAF](https://developer.android.com/guide/topics/providers/document-provider?hl=ru) - Используется SAF.
