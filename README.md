@@ -30,7 +30,7 @@
 
 Установка Android Studio
 
-![Image alt](https://github.com/{Nikita-Freedom}/{WhiteLakeProvider}/raw/{master}/{https://startandroid.ru/images/stories/lessons/L0002/x010.png.pagespeed.ic.CEyzEeQTsQ.webp}/image.png)
+![Image alt](https://github.com/{Nikita-Freedom}/{WhiteLakeProvider}/raw/{master}/https://github.com/Nikita-Freedom/WhiteLakeProvider/blob/master/Screenshot_2.png}/image.png)
  
 Здесь, как следует из скриншота, установщик спрашивает, куда ставить студию, и куда ставить SDK. Если с самой студией все понятно, то SDK нужно быть внимательным. Как опять же следует из скриншота, для установки SDK нужно минимум 3.2 GB места на диске. Это минимум, на самом деле, места нужно больше, поскольку через какое-то время вам нужно будет докачивать обновленный SDK. так что, если вы не уверены, что места в будущем хватит — лучше измените местоположение на более вместительный диск.
 
