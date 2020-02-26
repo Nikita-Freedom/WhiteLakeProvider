@@ -15,10 +15,10 @@
 2. На VMWare workStation установить Apache Server. Можно установить с официального сайта: https://httpd.apache.org/download.cgi
    Для более понятного процесса установки можно посмотреть: https://www.youtube.com/watch?v=a5UMDy0EeUU
    
-3.Java SE Development Kit 8(понадобится для android studio). Установить можно с сайта: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+ 3.Java SE Development Kit 8(понадобится для android studio). Установить можно с сайта:  https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
-4.Android Studio последней версии. Можно скачать с официального сайта:https://developer.android.com/studio
-Пройти весь процесс установки(в том числе загрузить SDK), загрузить виртуальный девайс для проверки расширения на нем.
+ 4.Android Studio последней версии. Можно скачать с официального сайта:https://developer.android.com/studio
+ Пройти весь процесс установки(в том числе загрузить SDK), загрузить виртуальный девайс для проверки расширения на нем.
 
 ### Шаги для установки apk
 Как только вы убедились, что у вас установлена и корректно работает Android studio, подключен либо виртуальный девайс, либо реальное android устройство переходите к следующим действиям:
